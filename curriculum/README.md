@@ -1,4 +1,6 @@
-# ClojureBridge Boston Curriculum Ouline(s)
+# ClojureBridge Boston Curriculum Outline(s)
+
+* Q: Should the 2 tracks be in 2 different folders ?*
 
 ## Track 1 : New To Programming
 **Everyone _must_ attend the meeting at 5 o'clock today.**
